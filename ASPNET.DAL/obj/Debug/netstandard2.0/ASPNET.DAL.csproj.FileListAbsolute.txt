@@ -1,0 +1,7 @@
+D:\Interview\ASP.NET TEST\ASPNET.DAL\bin\Debug\netstandard2.0\ASPNET.DAL.deps.json
+D:\Interview\ASP.NET TEST\ASPNET.DAL\bin\Debug\netstandard2.0\ASPNET.DAL.dll
+D:\Interview\ASP.NET TEST\ASPNET.DAL\obj\Debug\netstandard2.0\ASPNET.DAL.AssemblyInfoInputs.cache
+D:\Interview\ASP.NET TEST\ASPNET.DAL\obj\Debug\netstandard2.0\ASPNET.DAL.AssemblyInfo.cs
+D:\Interview\ASP.NET TEST\ASPNET.DAL\bin\Debug\netstandard2.0\ASPNET.DAL.pdb
+D:\Interview\ASP.NET TEST\ASPNET.DAL\obj\Debug\netstandard2.0\ASPNET.DAL.dll
+D:\Interview\ASP.NET TEST\ASPNET.DAL\obj\Debug\netstandard2.0\ASPNET.DAL.pdb

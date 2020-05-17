@@ -1,0 +1,6 @@
+D:\Interview\ASP.NET TEST\ASP.NET TEST\obj\Debug\netcoreapp3.1\ASP.NET TEST.csprojAssemblyReference.cache
+D:\Interview\ASP.NET TEST\ASP.NET TEST\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET TEST.StaticWebAssets.Manifest.cache
+D:\Interview\ASP.NET TEST\ASP.NET TEST\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET TEST.StaticWebAssets.xml
+D:\Interview\ASP.NET TEST\ASP.NET TEST\obj\Debug\netcoreapp3.1\ASP.NET TEST.MvcApplicationPartsAssemblyInfo.cache
+D:\Interview\ASP.NET TEST\ASP.NET TEST\obj\Debug\netcoreapp3.1\ASP.NET TEST.AssemblyInfoInputs.cache
+D:\Interview\ASP.NET TEST\ASP.NET TEST\obj\Debug\netcoreapp3.1\ASP.NET TEST.AssemblyInfo.cs

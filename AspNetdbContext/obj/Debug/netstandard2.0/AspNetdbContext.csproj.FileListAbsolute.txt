@@ -1,0 +1,11 @@
+D:\Interview\ASP.NET TEST\AspNetdbContext\bin\Debug\netstandard2.0\AspNetdbContext.deps.json
+D:\Interview\ASP.NET TEST\AspNetdbContext\bin\Debug\netstandard2.0\AspNetdbContext.dll
+D:\Interview\ASP.NET TEST\AspNetdbContext\bin\Debug\netstandard2.0\AspNetdbContext.pdb
+D:\Interview\ASP.NET TEST\AspNetdbContext\bin\Debug\netstandard2.0\ASPNET.DTO.dll
+D:\Interview\ASP.NET TEST\AspNetdbContext\bin\Debug\netstandard2.0\ASPNET.DTO.pdb
+D:\Interview\ASP.NET TEST\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.csprojAssemblyReference.cache
+D:\Interview\ASP.NET TEST\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.AssemblyInfoInputs.cache
+D:\Interview\ASP.NET TEST\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.AssemblyInfo.cs
+D:\Interview\ASP.NET TEST\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.csproj.CopyComplete
+D:\Interview\ASP.NET TEST\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.dll
+D:\Interview\ASP.NET TEST\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.pdb

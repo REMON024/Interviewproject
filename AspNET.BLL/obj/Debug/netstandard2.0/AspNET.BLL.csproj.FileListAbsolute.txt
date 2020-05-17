@@ -1,0 +1,13 @@
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\AspNET.BLL.deps.json
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\AspNET.BLL.dll
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\AspNET.BLL.pdb
+D:\Interview\ASP.NET TEST\AspNET.BLL\obj\Debug\netstandard2.0\AspNET.BLL.csprojAssemblyReference.cache
+D:\Interview\ASP.NET TEST\AspNET.BLL\obj\Debug\netstandard2.0\AspNET.BLL.AssemblyInfoInputs.cache
+D:\Interview\ASP.NET TEST\AspNET.BLL\obj\Debug\netstandard2.0\AspNET.BLL.AssemblyInfo.cs
+D:\Interview\ASP.NET TEST\AspNET.BLL\obj\Debug\netstandard2.0\AspNET.BLL.dll
+D:\Interview\ASP.NET TEST\AspNET.BLL\obj\Debug\netstandard2.0\AspNET.BLL.pdb
+D:\Interview\ASP.NET TEST\AspNET.BLL\obj\Debug\netstandard2.0\AspNET.BLL.csproj.CopyComplete
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\ASPNET.DTO.dll
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\AspNetdbContext.dll
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\ASPNET.DTO.pdb
+D:\Interview\ASP.NET TEST\AspNET.BLL\bin\Debug\netstandard2.0\AspNetdbContext.pdb
